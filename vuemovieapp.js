@@ -43,7 +43,7 @@ Vue.component('upcoming-movies', {
         </div>
         <div class="movie-info">
             <div class="info-section">
-                <label>Released on</label>
+                <label>Releasing on</label>
                 <span>{{upcoming.release_date}}</span>
             </div>
             <div class="info-section">
